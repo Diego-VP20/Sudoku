@@ -1,0 +1,10 @@
+Classes:
+
+    - Board
+        - Tile
+
+    - Player
+
+    - Generator
+
+    - Solver
