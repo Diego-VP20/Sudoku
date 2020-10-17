@@ -40,7 +40,7 @@ class Board(Utilities.Utilities):
 		intersection = Utilities.CYAN + "   ├───┼───┼───┤║├───┼───┼───┤║├───┼───┼───┤"
 		separator = Utilities.CYAN + "   ═════════════╬═════════════╬═════════════"
 		footer = Utilities.CYAN + "   └───┴───┴───┘║└───┴───┴───┘║└───┴───┴───┘"
-		numerationHorizontal = Utilities.CYAN + "     1   2   3     4   5   6     7   8   9\n"
+		numerationHorizontal = Utilities.CYAN + "     A   B   C     D   E   F     G   H   J\n"
 
 		print(numerationHorizontal)
 
