@@ -16,8 +16,6 @@ class Board(Utilities.Utilities):
 		              [(), (), (), (), (), (), (), (), ()],
 		              [(), (), (), (), (), (), (), (), ()]]
 
-		# Sample
-
 		self.field = [[("7", False), ("2", True), ("6", False), ("4", False), ("9", False), ("3", False), ("8", False),
 		               ("1", False), ("5", False)],
 		              [("3", False), ("1", False), ("5", False), ("7", False), ("2", False), ("8", False), ("9", False),
@@ -37,7 +35,7 @@ class Board(Utilities.Utilities):
 		              [("2", False), ("3", False), ("8", False), ("5", False), ("7", False), ("9", False), ("4", False),
 		               ("6", False), ("1", False)]]
 
-		self.drawBoard()
+		#self.drawBoard()
 
 	def drawBoard(self):
 		super().clear()
